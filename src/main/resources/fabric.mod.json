@@ -11,10 +11,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.gpixelprog.client.blockspownerClient"
+      "com.gpixelprog.client.blockspawnerClient"
     ],
     "main": [
-      "com.gpixelprog.blockspowner"
+      "com.gpixelprog.blockspawner"
     ]
   },
   "mixins": [
